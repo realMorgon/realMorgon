@@ -1,7 +1,6 @@
 # 💫 About Me:
 - Dev@BTEGermany
 - I mainly code Minecraft Plugins
-- I'm a strong part in my schools robotics class
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/realmorgon) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/realMorgon) 
