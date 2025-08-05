@@ -1,4 +1,5 @@
 # 💫 About Me:
+- Minecraft Spigot/Paper Plugin Dev
 - Dev@BTEGermany
 
 ## 🌐 Socials:
